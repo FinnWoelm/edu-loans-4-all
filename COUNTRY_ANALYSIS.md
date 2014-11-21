@@ -67,5 +67,13 @@ Key facts:
 
 Source: [Wikipedia](http://en.wikipedia.org/wiki/Student_loans_in_France)
 
+### Norway
+Key facts:
+
+- no interest until graduation
+- if student passes exams, part of loan is converted into grant
+
+Source: [Wikipedia](http://en.wikipedia.org/wiki/Student_loans_in_Norway)
+
 ### Australia
 *Lacking Information*
