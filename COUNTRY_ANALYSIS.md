@@ -58,6 +58,14 @@ Key facts:
 
 Source: [Wikipedia](http://en.wikipedia.org/wiki/Student_loans_in_Denmark)
 
+### France
+Key facts:
+
+- grants based on family financial resources
+- if receiving grant, all tuition fees at state universities are waived
+- can loan 15,000 € at 0-interest (~ $19,900)
+
+Source: [Wikipedia](http://en.wikipedia.org/wiki/Student_loans_in_France)
 
 ### Australia
 *Lacking Information*
