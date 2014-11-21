@@ -2,8 +2,9 @@ Student Loan Analysis in Select Countries
 ===============
 
 Quick-Overview:
-[Student Loans Around the Globe by Tuition.io](https://www.tuition.io/blog/2013/06/student-loans-around-the-globe/)
-[Wikipedia Overview](http://en.wikipedia.org/wiki/Category:Student_loan_systems_by_country)
+
+- [Student Loans Around the Globe by Tuition.io](https://www.tuition.io/blog/2013/06/student-loans-around-the-globe/)
+- [Wikipedia Overview](http://en.wikipedia.org/wiki/Category:Student_loan_systems_by_country)
 
 ### Germany
 Key facts:
