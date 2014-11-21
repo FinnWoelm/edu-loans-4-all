@@ -9,4 +9,5 @@ Key facts:
 - Academic performance standards must be met
 - 50% 0-interest loan, 50% grant to student
 - Repaid only when exceeding certain income level
+
 Source: [Wikipedia](http://en.wikipedia.org/wiki/Student_loans_in_Germany)
