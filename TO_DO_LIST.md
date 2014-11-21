@@ -6,3 +6,4 @@ To Do List
 - [ ] Find number on employment opportunities in Ghana
 - [ ] Create numerical analysis for cost of education + return of education
 - [ ] Assess positive externalities of education
+- [ ] Analyze whether mentorship is helpful or not
