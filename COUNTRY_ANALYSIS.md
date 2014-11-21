@@ -27,5 +27,14 @@ Key facts:
 
 Source: [Wikipedia](http://en.wikipedia.org/wiki/Student_loans_in_the_United_Kingdom)
 
+### New Zealand
+Key facts:
+
+- Loans apply to Tuition + Living Costs
+- Repayment equals 12% of income
+- Borrowers residing in New Zealand exempt from all interest
+
+Source: [Wikipedia](http://en.wikipedia.org/wiki/Student_loans_in_New_Zealand)
+
 ### Australia
 *Lacking Information*
