@@ -75,5 +75,14 @@ Key facts:
 
 Source: [Wikipedia](http://en.wikipedia.org/wiki/Student_loans_in_Norway)
 
+### Sweden
+Key facts:
+
+- SEK 2,492/month in grant money (~ $350)
+- SEK 4,764/month in optional loan money (~ $700)
+- grant and loan tied to income
+
+Source: [Wikipedia](http://en.wikipedia.org/wiki/Student_loans_in_Norway)
+
 ### Australia
 *Lacking Information*
