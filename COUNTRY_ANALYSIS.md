@@ -1,7 +1,7 @@
 Student Loan Analysis in Select Countries
 ===============
 
-# Germany
+## Germany
 Key facts:
 - Eligibility dependent on parent income
 - Amount dependent on parent income
