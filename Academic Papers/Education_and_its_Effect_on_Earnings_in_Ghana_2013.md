@@ -11,3 +11,4 @@ Key Findings (*page number*):
 ![Table 4.1 Data](/images/okletey_2013/table4_1.png)
 - Table 4.7: Private rates of return to an additional year of schooling % (65)
 ![Table 4.7 Data](/images/okletey_2013/table4_7.png)
+- "education is a worthwhile investment for the individual because it permits increases in earnings with more years of schooling" (71)
