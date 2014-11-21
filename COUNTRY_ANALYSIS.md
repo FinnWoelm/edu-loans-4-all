@@ -39,5 +39,13 @@ Key facts:
 
 Source: [Wikipedia](http://en.wikipedia.org/wiki/Student_loans_in_New_Zealand)
 
+### Canada
+Key facts:
+
+- Interest-free while studying
+- Repayment at fixed interest rate + 5% or flexible interest rate + 2.5%
+
+Source: [Wikipedia](http://en.wikipedia.org/wiki/Student_loans_in_Canada)
+
 ### Australia
 *Lacking Information*
