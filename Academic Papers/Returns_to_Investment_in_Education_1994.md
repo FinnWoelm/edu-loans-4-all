@@ -10,6 +10,8 @@ Key Findings (*page number*):
 - "Table 7 and Figure 6 confirm that, overall, the returns to female education are higher than those for males." (1327)
 - "large variation between the returns to higher education faculties, the lowest social returns being for physics, sciences and agronomy, and the highest private returns for engineering, law and economics." (1327)
 - Table 1. Returns to investment in education by level (percentage), full method, latest year, regional averages
+
 ![Table 1 Data](/images/psacharopoulos_1994/table_1.png)
 - Table 2. Returns to investment in education by level (percentage), full method, latest year, averages by per capita income group
+
 ![Table 2 Data](/images/psacharopoulos_1994/table_2.png)
