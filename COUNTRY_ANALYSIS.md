@@ -26,3 +26,6 @@ Key facts:
 - Loans forgiven after 30 years
 
 Source: [Wikipedia](http://en.wikipedia.org/wiki/Student_loans_in_the_United_Kingdom)
+
+### Australia
+*Lacking Information*
