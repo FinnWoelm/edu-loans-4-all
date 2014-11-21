@@ -47,5 +47,17 @@ Key facts:
 
 Source: [Wikipedia](http://en.wikipedia.org/wiki/Student_loans_in_Canada)
 
+### Denmark
+Key facts:
+
+- 6-year grant of 5,622 DKK/month (~ $960)
+- optional loan of 2,897 DKK/month (~ $500) available
+- loan has to be repaid upon graduation
+- loan is forgiven after 15 years
+- Repayment at fixed interest rate + 5% or flexible interest rate + 2.5%
+
+Source: [Wikipedia](http://en.wikipedia.org/wiki/Student_loans_in_Denmark)
+
+
 ### Australia
 *Lacking Information*
